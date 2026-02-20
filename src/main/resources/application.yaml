@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: event-driven-architecture
+springdoc:
+  api-doc:
+    path: /api-doc
+  swagger-ui:
+    path: /swagger-ui.html
